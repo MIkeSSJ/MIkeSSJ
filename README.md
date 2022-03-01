@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MIkeSSJ
 - 👀 I’m interested in games, tecnology, Animes, films
 - 🌱 I’m currently learning Java, python, and font and (css, html and JS)
-- 💞️ I’m looking to collaborate on nothing this moment
+- 💞️ I’m looking to Job
 - 📫 How to reach me ...
 
 <!---
