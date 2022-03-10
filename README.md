@@ -1,13 +1,12 @@
-## OI eu sou o Mike
+## Meu nome é Mike
 
 
 
-- 👋 Hi, I’m @MIkeSSJ
-- 👀 I’m interested in games, tecnology, Animes, films
-- 🌱 I’m currently learning Java, python, and font and (css, html and JS)
-- 💞️ I’m looking to Job
-- 📫 How to reach me ...
-- 
+- 👀 Gosto de games, tecnologia, Animes, filmes
+- 🌱 Atualmente estou aprendendo Java, python, and front and (css, html and JS)
+- 👍 Estou a procura de uma vaga
+- 📫 Pode me encontrar no endereço: mike_queiroz@hotmail.com ou no meu linkedin.com/in/mike-queiroz-mk
+ 
 
 
 
